@@ -1,0 +1,1 @@
+create or replace stream ALLCITYNETWORK_DEV.ON3_KIPI.STG_AD_RESPONSE_TEST_STR on table STG_AD_RESPONSE_TEST_METRIC append_only = true;
