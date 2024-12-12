@@ -1,0 +1,1 @@
+create or replace stream ALLCITYNETWORK_DEV.ON3_KIPI.STG_BID_REQUEST_TEST_STR on table STG_BID_REQUEST_TEST_METRIC append_only = true;

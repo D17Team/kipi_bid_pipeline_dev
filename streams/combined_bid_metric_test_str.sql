@@ -1,0 +1,1 @@
+create or replace stream ALLCITYNETWORK_DEV.ON3_KIPI.COMBINED_BID_METRIC_STR on table COMBINED_BID_METRIC append_only = true;
